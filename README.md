@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE student at MIT ADT University  
 💡 Passionate about AI, Machine Learning, Data Analytics   
-📬 Reach me at: deshmukhajinkya8472@example.com  
+📬 Reach me at: deshmukhajinkya8472@gmail.com  
 🗣️ Fluent in English, Hindi, Marathi
 
 ---
