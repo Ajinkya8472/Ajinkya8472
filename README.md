@@ -19,9 +19,10 @@
 
 ## 🚀 Projects
 
-- **[Project 1 Name]** – [Brief description of what it does]  
-- **[Project 2 Name]** – [Brief description of what it does]  
-- **[Project 3 Name]** – [Brief description of what it does]
+### [RT-DETR Object Detection](https://github.com/yourusername/RT-DETR-CIFAR10-Detection)
+- Achieved **69.6% mAP** on CIFAR-10 using transformer-based detection
+- Solved complex technical challenges with GPU optimization
+- Complete MLOps pipeline with automated backups
 
 ---
 
